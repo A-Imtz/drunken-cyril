@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+<meta name="generator" content="CoffeeCup Visual Site Designer, Version 7.0 Build 19 for Windows">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta http-equiv="generator" content="CoffeeCup Visual Site Designer (www.coffeecup.com)">
+<meta name="created" content="Thu, 05 Jun 2014 00:55:00 GMT">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+	<script src="gooeymenu.js">
+/***********************************************
+* Gooey Menu Script (c) Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+</script>
+<link href="gooeymenu.css" rel="stylesheet" type="text/css"  />
+
+<title> Uma Kancharla </title>
+
+<style type="text/css">
+
+   /* TEXT STYLES */
+
+.textstyle0 {font-family:Tahoma;font-weight:normal;font-style:normal;font-size:36pt;text-decoration:none;color:#ffffff;}
+.textstyle1 {font-family:Tahoma;font-weight:bold;font-style:italic;font-size:14pt;text-decoration:none;color:#797979;}
+.textstyle2 {font-family:Tahoma;font-weight:normal;font-style:normal;font-size:14pt;text-decoration:none;color:#797979;}
+.textstyle3 {font-family:Tahoma;font-weight:normal;font-style:normal;font-size:10pt;text-decoration:none;color:#ffffff;}
+
+
+   /* OBJECT STYLES */
+
+div.Object30 { position:absolute; top:24px; left:476px; z-index:0; }
+div.Object31 { position:absolute; top:24px; left:586px; z-index:1; }
+div.Object32 { position:absolute; top:24px; left:696px; z-index:2; }
+div.Object33 { position:absolute; top:24px; left:806px; z-index:3; }
+div.Object34 { position:absolute; top:24px; left:366px; z-index:4; }
+div.Object35 { position:absolute; top:285px; left:48px; z-index:5; }
+div.Object36 { position:absolute; top:53px; left:48px; z-index:6; }
+div.Object37 { position:absolute; top:59px; left:476px; z-index:7; }
+div.Object38 { position:absolute; top:131px; left:75px; z-index:8; text-align:center; width:371px; }
+div.Object39 { position:absolute; top:309px; left:68px; z-index:9; text-align:left; width:647px; }
+div.Object40 { position:absolute; top:336px; left:359px; z-index:10; text-align:left; width:58px; }
+div.Object41 { position:absolute; top:616px; left:48px; z-index:11; text-align:left; width:272px; }
+div.Object42 { position:absolute; top:616px; left:440px; z-index:12; text-align:left; width:446px; }
+
+
+
+   /* BODY STYLES */
+
+body {
+ margin:0px;
+ padding :0px;
+ text-align:center;
+ height:100%;
+ width:100%;
+ background-image: url('files/body_bkgd.jpg');
+}
+
+
+   /* LINK STYLES */
+
+A:link { color:#ffffff;}
+
+A:visited  { color:#ffffff;}
+
+A:hover  { color:#007788;}
+
+   /* IMAGE STYLES */
+
+img { border:0 none}
+
+
+
+   /* CONTAINER RULES */
+
+#container { position:relative; margin:0px auto 0 auto; height:640px; width:960px; text-align:left; padding-left:0px;}
+
+</style>
+</head>
+
+			<ul id="gooeymenu4" class="framemenu">
+<li><a href="index.html"  onMouseOver='img_mo3.src="files/IMG_3.jpg"' onMouseOut='img_mo3.src="files/IMG_1.jpg"'>&nbsp&nbsp;Home</a></li>
+<li><a href="about.html"onMouseOver='img_mo0.src="files/IMG_3.jpg"' onMouseOut='img_mo0.src="files/IMG_1.jpg"'>&nbsp;&nbspAbout</a></li>
+<li><a href="services.html" >&nbsp;&nbsp;&nbsp;Services</a></li>
+<li><a href="resources.html"onMouseOver='img_mo1.src="files/IMG_3.jpg"' onMouseOut='img_mo1.src="files/IMG_1.jpg"'>&nbsp;&nbsp;Resources</a></li>
+<li><a href="contact.html" onMouseOver='img_mo2.src="files/IMG_3.jpg"' onMouseOut='img_mo2.src="files/IMG_1.jpg"'>&nbsp;Contact</a></li>
+</ul>
+
+<script>
+gooeymenu.setup({id:'gooeymenu4', snapdelay:10})
+</script>
+
+<body>
+<div id="container">
+
+<div class="Object30"><a href="about.html"><img src="files/IMG_1.jpg" name="img_mo0" alt="" width="109px" height="29px"></a></div>
+
+<div class="Object31"><a href="services.html" ><img src="files/IMG_25.jpg"  alt="" width="109px" height="29px"></a></div>
+
+<div class="Object32"><a href="resources.html" ><img src="files/IMG_1.jpg" name="img_mo1" alt="" width="109px" height="29px"></a></div>
+
+<div class="Object33"><a href="contact.html"><img src="files/IMG_1.jpg" name="img_mo2" alt="" width="109px" height="29px"></a></div>
+
+<div class="Object34"><a href="index.html"><img src="files/IMG_1.jpg" name="img_mo3" alt="" width="109px" height="29px"></a></div>
+
+<div class="Object35"><img src="files/IMG_24.jpg"  alt="" width="867px" height="322px"></div>
+
+<div class="Object36"><img src="files/IMG_25.jpg"  alt="" width="867px" height="222px"></div>
+
+<div class="Object37"><img src="files/asdfasdfasd2.png"  alt="" width="430px" height="209px"></div>
+
+<div class="Object38"><span class="textstyle0">Services Provided<br>
+</span></div>
+
+<div class="Object39"><span class="textstyle1">Uma offers expert legal defence for ALL criminal offences including:<br>
+</span></div>
+
+<div class="Object40"><span class="textstyle2">Assault<br>
+Theft<br>
+etc<br>
+</span></div>
+
+<div class="Object41"><span class="textstyle3"><a href="index.html">Home</a> &#124; <a href="about.html">About</a> &#124; <a href="services.html">Services</a> &#124; <a href="resources.html">Resources</a> &#124; <a href="contact.html">Contact<br>
+</a></span></div>
+
+<div class="Object42"><span class="textstyle3">Copyright 2014 Uma Kancharla Criminal Defence Lawyer&#124; All Rights Reserved.<br>
+</span></div>
+</div>
+
+</body>
+</html>
